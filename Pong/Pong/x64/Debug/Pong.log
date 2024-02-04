@@ -1,0 +1,14 @@
+﻿  Main.cpp
+C:\Tanishq\Tech\Raylib\Pong\Pong\sec\Main.cpp(17,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Tanishq\Tech\Raylib\Pong\Pong\sec\Main.cpp(17,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tanishq\Tech\Raylib\Pong\Pong\sec\Main.cpp(17,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tanishq\Tech\Raylib\Pong\Pong\sec\Main.cpp(43,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Tanishq\Tech\Raylib\Pong\Pong\sec\Main.cpp(44,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Tanishq\Tech\Raylib\Pong\Pong\sec\Main.cpp(75,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tanishq\Tech\Raylib\Pong\Pong\sec\Main.cpp(75,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tanishq\Tech\Raylib\Pong\Pong\sec\Main.cpp(142,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tanishq\Tech\Raylib\Pong\Pong\sec\Main.cpp(144,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Tanishq\Tech\Raylib\Pong\Pong\sec\Main.cpp(149,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Tanishq\Tech\Raylib\Pong\x64\Debug\Pong.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
