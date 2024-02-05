@@ -1,1 +1,0 @@
-C:\Tanishq\Tech\Raylib\Snake\Snake\x64\Debug\Snake.vcxproj.CopyComplete
