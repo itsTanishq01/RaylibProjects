@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Tanishq\Tech\Raylib\Snake\Snake\Src\Main.cpp(39,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Tanishq\Tech\Raylib\Snake\Snake\Src\Main.cpp(40,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Tanishq\Tech\Raylib\Snake\Snake\Src\Main.cpp(46,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Tanishq\Tech\Raylib\Snake\Snake\Src\Main.cpp(46,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tanishq\Tech\Raylib\Snake\Snake\Src\Main.cpp(46,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tanishq\Tech\Raylib\Snake\Snake\Src\Main.cpp(107,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Snake.vcxproj -> C:\Tanishq\Tech\Raylib\Snake\x64\Debug\Snake.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

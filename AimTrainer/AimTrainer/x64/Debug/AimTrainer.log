@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Tanishq\Tech\Raylib\AimTrainer\AimTrainer\Src\Main.cpp(42,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Tanishq\Tech\Raylib\AimTrainer\AimTrainer\Src\Main.cpp(43,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Tanishq\Tech\Raylib\AimTrainer\AimTrainer\Src\Main.cpp(49,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Tanishq\Tech\Raylib\AimTrainer\AimTrainer\Src\Main.cpp(49,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tanishq\Tech\Raylib\AimTrainer\AimTrainer\Src\Main.cpp(49,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Tanishq\Tech\Raylib\AimTrainer\AimTrainer\Src\Main.cpp(113,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  AimTrainer.vcxproj -> C:\Tanishq\Tech\Raylib\AimTrainer\x64\Debug\AimTrainer.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
